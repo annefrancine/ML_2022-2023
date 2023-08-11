@@ -43,5 +43,9 @@ Pour ce cours, nous utiliserons Google Colab, une plateforme de notebooks intera
 Chaque module dispose d'un notebook Google Colab dédié avec du matériel pédagogique et des exemples de code.
 Les notebooks Colab sont préconfigurés avec les bibliothèques nécessaires et les ressources pour vous aider à démarrer rapidement.
 
+https://colab.research.google.com/?utm_source=scs-index
+https://www.youtube.com/watch?v=vuFTrylVwno
+https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/intro.ipynb
+
 ## Auteurs
 Ce cours a été développé par @annefrancine
