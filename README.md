@@ -44,7 +44,7 @@ Chaque module dispose d'un notebook Google Colab dédié avec du matériel péda
 Les notebooks Colab sont préconfigurés avec les bibliothèques nécessaires et les ressources pour vous aider à démarrer rapidement.
 
 https://colab.research.google.com/?utm_source=scs-index
-https://www.youtube.com/watch?v=vuFTrylVwno
+https://colab.research.google.com/notebooks/intro.ipynb
 https://colab.research.google.com/github/adamlamee/CODINGinK12/blob/master/notebooks/intro.ipynb
 
 ## Auteurs
