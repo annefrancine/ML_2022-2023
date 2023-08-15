@@ -28,12 +28,6 @@ Ce cours est divisé en plusieurs modules, chacun abordant un aspect spécifique
 - Clustering : regroupement des données similaires.
 - Réduction de dimension : simplification des données tout en conservant leur essence.
 
-6. Introduction à l’IA générative (Bonus)
-- Qu'est-ce que l'IA générative ?
-- Les grands modèles de langage
-- Chatgpt
-- Améliorer les réponses de l'IA générative avec prompt engineering
-
 ## Prérequis
 Connaissance de base en programmation (Python recommandé).
 
